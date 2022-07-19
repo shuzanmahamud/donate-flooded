@@ -20,7 +20,7 @@ h2{
     padding-left: 2px;
     margin-bottom: 150px;
     width: 100%;
-    height: 630px;
+    height: 700px;
     background-image: url(images/donation5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -57,7 +57,7 @@ h2{
     display: flex;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     
     
 
@@ -84,6 +84,46 @@ h2{
     background-repeat: no-repeat;
     padding: 30px;
 }
+.form-box{
+    padding: 60px;
+    background-color:rgb(226, 220, 209);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+   
+}
+.form-box input{
+    font-size: 20px;
+    padding: 15px 15px;
+    background-color:rgb(185, 211, 178);
+    margin-bottom: 100px;
+
+}
+#color{
+    background-color: rgb(223, 21, 21);
+    text-align: center;
+    padding: 10px 10px;
+    color: white;
+
+}
+#new {
+    color: red;
+}
+
+#done {
+    color: darkgray;
+}
+.footer{
+    background-color: black;
+    padding: 15px 15px;
+    font-style: italic;
+    text-align: center;
+    text-decoration-color: brown;
+    margin-bottom: 0%;
+}
+
+
+
 
 
 
