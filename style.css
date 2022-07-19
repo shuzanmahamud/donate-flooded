@@ -9,6 +9,9 @@ h1{
     color: white;
 
 }
+h2{
+    font-size: 40px;
+}
 
 .donation-banner{
 
@@ -50,6 +53,38 @@ h1{
  border: 5px solid brown;
 
 }
+.flexible-container{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 150px;
+    
+    
+
+}
+#one{
+    background-color: silver;
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    padding: 30px;
+    margin-right: 10px;
+
+
+}
+#two{
+    background-color: cadetblue;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    padding: 30px;
+    margin-right: 10px;
+}
+#three{
+    background-color: burlywood;
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    padding: 30px;
+}
+
 
 
     
